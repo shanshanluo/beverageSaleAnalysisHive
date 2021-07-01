@@ -1,0 +1,2 @@
+# beverageSaleAnalysisHive
+Apache Hive project
